@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a</h1>
-<h3 align="center">r</h3>
+<h1 align="center">Hi There👋, I'm Aryan Kumar</h1>
+<h3 align="center">Currently a Student at UPES Dehradun in B.Tech CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crgaming78&label=Profile%20views&color=0e75b6&style=flat" alt="crgaming78" /> </p>
 
