@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crgaming78" alt="crgaming78" /></a> </p>
 
-- 🔭 I’m currently working on **h**
+- 🔭 I’m currently working on **Image Recognition**
 
-- 🌱 I’m currently learning **h**
+- 🌱 I’m currently learning **Python and DSA**
 
-- 💬 Ask me about **h**
-
-- 📫 How to reach me **h**
+<!-- 💬 Ask me about **h**
+-->
+- 📫 How to reach me **aryanku.cr78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
