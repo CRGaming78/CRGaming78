@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crgaming78" alt="crgaming78" /></a> </p>-->
 
-- 🔭 I’m currently working on **Image Recognition**
+<!--- 🔭 I’m currently working on **Image Recognition**-->
 
 - 🌱 I’m currently learning **Python and DSA**
 
