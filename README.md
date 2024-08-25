@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OOPS and 52-week Challenge**
 
-- 🌱 I’m currently learning **Python and JAVA**
+- 🌱 I’m currently learning **Python and SQL**
 
 <!-- 💬 Ask me about **h**
 -->
